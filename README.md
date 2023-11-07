@@ -8,7 +8,7 @@ Fiz o projeto inicialmente para treinar e aprimorar minhas habilidades com com R
 
 ## Layout Web
 
-![Web 1](https://github.com/MatheusArimura/assets/blob/master/todo_reactjs/todo-desktop.png)
+![Web 1](https://github.com/MatheusArimura/assets/blob/master/to_do_app/todo-desktop.png)
 
 ## Tecnologias utilizadas
 
