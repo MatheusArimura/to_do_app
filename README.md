@@ -1,8 +1,23 @@
-# React + Vite
+# To Do - App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Sobre o projeto
 
-Currently, two official plugins are available:
+Esse projeto é um sistema simples feito em ReactJs para ajudar a realizar e lembrar das suas tarefas, baseado no vídeo do [Matheus Battisti](https://www.youtube.com/@MatheusBattisti).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fiz o projeto inicialmente para treinar e aprimorar minhas habilidades com com ReactJS, faltando apenas armazenar as tarefas para visualizar mesmo recarregando a página.
+
+## Layout Web
+
+![Web 1](https://github.com/MatheusArimura/assets/blob/master/todo_reactjs/todo-desktop.png)
+
+## Tecnologias utilizadas
+
+![REACTJS](https://img.shields.io/badge/REACTJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+## Licença
+
+[![MIT](https://img.shields.io/badge/MIT-green?style=for-the-badge&logoColor=black&label=license)](https://github.com/MatheusArimura/to_do_reactjs/blob/master/LICENSE)
