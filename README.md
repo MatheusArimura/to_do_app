@@ -4,7 +4,7 @@
 
 Esse projeto é um sistema simples feito em ReactJs para ajudar a realizar e lembrar das suas tarefas, baseado no vídeo do [Matheus Battisti](https://www.youtube.com/@MatheusBattisti).
 
-Fiz o projeto inicialmente para treinar e aprimorar minhas habilidades com com ReactJS, faltando apenas armazenar as tarefas para visualizar mesmo recarregando a página.
+Fiz o projeto inicialmente para treinar e aprimorar minhas habilidades com ReactJS, faltando apenas armazenar as tarefas para visualizar mesmo recarregando a página.
 
 ## Layout Web
 
